@@ -49,4 +49,4 @@ accounts and consider a reputable password manager.
 - Practice building practical Python applications.
 
 ## Author
-Add your name or GitHub username here.
+Apollo Samson
